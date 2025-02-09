@@ -147,7 +147,7 @@ const HomePage = () => {
               className="w-full h-[300px] object-cover rounded-xl shadow-lg transition-transform group-hover:scale-105"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent rounded-xl flex items-end p-6">
-              <p className="text-white text-lg font-medium">Our First Date</p>
+              <p className="text-white text-lg font-medium">İkinci Buluşmamız (ilkinden foto yok)</p>
             </div>
           </div>
           <div className="relative group">
@@ -157,7 +157,7 @@ const HomePage = () => {
               className="w-full h-[300px] object-cover rounded-xl shadow-lg transition-transform group-hover:scale-105"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent rounded-xl flex items-end p-6">
-              <p className="text-white text-lg font-medium">Beautiful Memories</p>
+              <p className="text-white text-lg font-medium">metro</p>
             </div>
           </div>
           <div className="relative group">
@@ -167,7 +167,7 @@ const HomePage = () => {
               className="w-full h-[300px] object-cover rounded-xl shadow-lg transition-transform group-hover:scale-105"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent rounded-xl flex items-end p-6">
-              <p className="text-white text-lg font-medium">Our Journey</p>
+              <p className="text-white text-lg font-medium">cok guzelsin burada</p>
             </div>
           </div>
         </motion.div>
