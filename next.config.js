@@ -8,6 +8,8 @@ const nextConfig = {
   // Add basePath if you're not using a custom domain
   // basePath: '/handenaz',
   distDir: 'dist',
+  // Add this to ensure proper routing
+  pageExtensions: ['js', 'jsx', 'ts', 'tsx'],
 }
 
 module.exports = nextConfig 

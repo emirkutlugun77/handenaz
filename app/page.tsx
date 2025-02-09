@@ -58,7 +58,7 @@ const HomePage = () => {
       {
         reply_to: 'emirkutlugun01@gmail.com',
         to_name: 'Emir Kutlugün',
-        message: 'She said YES to watching Shrek! 🎬��',
+        message: 'She said YES to watching Shrek! 🎬',
       },
       '5B1gquoB1o0KCPChc'  // Replace with your Public Key
     ).catch(error => console.error('Failed to send email:', error));
@@ -68,7 +68,7 @@ const HomePage = () => {
         {
           reply_to: 'emirkutlugun01@gmail.com',
           to_name: 'Emir Kutlugün',
-          message: 'She said YES to watching Shrek! 🎬��',
+          message: 'She said YES to watching Shrek! 🎬',
         },
         '5B1gquoB1o0KCPChc'  // Replace with your Public Key
       ).catch(error => console.error('Failed to send email:', error));
