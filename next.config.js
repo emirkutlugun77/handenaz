@@ -3,10 +3,11 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  // Add this to handle trailing slashes
-  trailingSlash: true,
-  // Add this if you're using static exports
-  output: 'standalone',
+  // Remove trailingSlash and standalone output
+  output: 'export',
+  // Add basePath if you're not using a custom domain
+  // basePath: '/handenaz',
+  distDir: 'dist',
 }
 
 module.exports = nextConfig 
