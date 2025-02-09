@@ -128,7 +128,7 @@ const HomePage = () => {
             Hata yaptığımı biliyorum ve seni incittiğimi bilmek beni acıtıyor. Seninle küs geçen her an sonsuz gibi geliyor.
             </p>
             <p className="text-xl leading-relaxed">
-            Sen benim için her şeyden önemlisin, seni incitmek istemiyorum. Senin mutluluğun kendim için en önemli şey.
+            Sen benim için her şeyden önemlisin, seni incitmek istemiyorum. Senin mutluluğun benim için en önemli şey.
             </p>
           </div>
         </motion.div>
