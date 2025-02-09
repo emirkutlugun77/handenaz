@@ -1,10 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
-  basePath: '',
   images: {
     unoptimized: true,
   },
+  // Add this to handle trailing slashes
+  trailingSlash: true,
+  // Add this if you're using static exports
+  output: 'standalone',
 }
 
 module.exports = nextConfig 
